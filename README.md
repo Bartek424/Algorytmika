@@ -1,0 +1,2 @@
+# Algorytmika
+Zadanie na Informatyke
