@@ -16,11 +16,10 @@ int mojfun(int x, int y){
 	wynik = 1;
 	while (y > 0){
   		if(y % 2 == 1){
-  			wynik <= wynik * x;
+  			wynik = wynik * x;
 		};
 		x = x * x;
 		y = y /2;
 	}
-		wynik = x;
 	return wynik;
 }
